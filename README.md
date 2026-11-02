@@ -7,7 +7,7 @@
 
 **Sketch 原生画布交付工具：只读检查、交付注释、离线 HTML 导出**
 
-[![Sketch](https://img.shields.io/badge/Sketch-%3E%3D97.2-orange)](https://www.sketch.com)
+[![Sketch](https://img.shields.io/badge/Sketch-%3E%3D100-orange)](https://www.sketch.com)
 [![Release](https://img.shields.io/badge/Release-v1.0-green)](https://github.com/xiny9828/design-delivery/releases)
 [![Platform](https://img.shields.io/badge/Platform-macOS-lightgrey)](https://github.com/xiny9828/design-delivery)
 
@@ -39,11 +39,24 @@
 
 ### 🚀 使用方法
 
-1. **下载并安装插件**：下载 `设计交付.sketchplugin.zip`，解压后双击安装（Sketch ≥ 97.2）
-2. **打开交付工具栏**：在 Sketch 菜单中打开「插件 → 💻 设计交付 → 交付工具栏」，或直接按快捷键 `Ctrl Shift D`
-3. **导出交付 HTML**：选中画板后执行「导出选中画板到 HTML」，也可选择「导出当前页面画板到 HTML」或「导出全部页面画板到 HTML」
-4. **查看交付内容**：用浏览器打开导出的 HTML 文件，即可查看画板结构、标注与交付说明，无需安装 Sketch
-5. **管理标注**：交付完成后如需清理，可执行「删除当前页面标注」或「删除全部标注」
+1. **打开电脑任何来源**：打开终端，输入 `sudo spctl --master-disable`，输入管理员开机密码（屏幕不显示字符），再按回车；打开 `系统设置 > 隐私与安全性`，向下滚动就能看到 `任何来源` 并勾选。【方法二：不开启任何来源，打开插件若报错，再打开 `系统设置 > 隐私与安全性 > 安全性` 点击 `仍要打开` 也可以正常使用】
 
+   <img width="735" height="342" alt="image" src="https://github.com/user-attachments/assets/ff1cb6a0-f006-4886-8e90-272a173008b0" />
+   
+2. **下载并安装插件**：下载 `设计交付.sketchplugin.zip`，解压后双击安装（Sketch ≥ 97.2）
+
+   <img width="223" height="304" alt="image" src="https://github.com/user-attachments/assets/645de8e6-f7cf-463d-93f7-5385d60a4b58" />
+   
+3. **打开交付工具栏**：在 Sketch 菜单中打开「插件 → 💻 设计交付 → 交付工具栏」，或直接按快捷键 `Ctrl Shift D`
+
+   <img width="463" height="153" alt="image" src="https://github.com/user-attachments/assets/008973ea-1725-4121-a2f0-bdc3e880d263" />
+   <img width="1000" height="100" alt="image" src="https://github.com/user-attachments/assets/a43f517c-25ee-4788-9315-b63ab2f0d5aa" />
+   
+4. **导出交付 HTML**：选中画板后执行「导出选中画板到 HTML」，也可选择「导出当前页面画板到 HTML」或「导出全部页面画板到 HTML」
+   
+5. **查看交付内容**：用浏览器打开导出的 HTML 文件，即可查看画板结构、标注与交付说明，堪比本地蓝湖
+
+   <img width="1441" height="1054" alt="image" src="https://github.com/user-attachments/assets/cbc2a5ea-ec12-462d-a9c1-b6f0afddf188" />
+   
 
 <br>
