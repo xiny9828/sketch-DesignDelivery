@@ -50,7 +50,8 @@
 3. **打开交付工具栏**：在 Sketch 菜单中打开「插件 → 💻 设计交付 → 交付工具栏」，或直接按快捷键 `Ctrl Shift D`
 
    <img width="463" height="153" alt="image" src="https://github.com/user-attachments/assets/008973ea-1725-4121-a2f0-bdc3e880d263" />
-   <img width="1000" height="100" alt="image" src="https://github.com/user-attachments/assets/a43f517c-25ee-4788-9315-b63ab2f0d5aa" />
+   <img width="2068" height="1295" alt="image" src="https://github.com/user-attachments/assets/17b0b158-c114-4884-9743-2c0dc410452c" />
+
    
 4. **导出交付 HTML**：选中画板后执行「导出选中画板到 HTML」，也可选择「导出当前页面画板到 HTML」或「导出全部页面画板到 HTML」
    
