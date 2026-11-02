@@ -43,7 +43,7 @@
 
    <img width="735" height="342" alt="image" src="https://github.com/user-attachments/assets/ff1cb6a0-f006-4886-8e90-272a173008b0" />
    
-2. **下载并安装插件**：下载 `设计交付.sketchplugin.zip`，解压后双击安装（Sketch ≥ 97.2）
+2. **下载并安装插件**：下载 `设计交付.sketchplugin.zip`，解压后双击安装（Sketch ≥ 100）
 
    <img width="223" height="304" alt="image" src="https://github.com/user-attachments/assets/645de8e6-f7cf-463d-93f7-5385d60a4b58" />
    
